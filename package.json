@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "name": "stella-projeto",
+  "version": "1.0.0",
+  "description": "bot de discord. (atualizacoes serao feitas em breve)",
+  "main": "stella.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Stella"
+  ],
+  "author": "JV (Oliver)",
+  "license": "ISC"
+}
